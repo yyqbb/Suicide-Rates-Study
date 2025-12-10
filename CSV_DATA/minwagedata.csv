@@ -1,0 +1,673 @@
+"Countries","Years","Wages"
+"Australia",2000,21665.7
+"Australia",2001,21879.1
+"Australia",2002,22164.6
+"Australia",2003,22553.6
+"Australia",2004,22736.5
+"Australia",2005,22388.4
+"Australia",2006,23130.9
+"Australia",2007,22725.8
+"Australia",2008,23018.2
+"Australia",2009,22902.5
+"Australia",2010,23075.8
+"Australia",2011,23390.1
+"Australia",2012,23459.4
+"Australia",2013,23532.7
+"Australia",2014,23819.7
+"Australia",2015,24095.8
+"Australia",2016,24310.8
+"Australia",2017,24665.9
+"Australia",2018,25062.5
+"Australia",2019,25441.3
+"Australia",2020,25258.7
+"Belgium",2000,23941.5
+"Belgium",2001,24262.4
+"Belgium",2002,24122
+"Belgium",2003,23860.7
+"Belgium",2004,23678.6
+"Belgium",2005,23723.4
+"Belgium",2006,23997.2
+"Belgium",2007,23900.3
+"Belgium",2008,25084.5
+"Belgium",2009,24547.1
+"Belgium",2010,24425.5
+"Belgium",2011,24226.1
+"Belgium",2012,24679.9
+"Belgium",2013,24596.2
+"Belgium",2014,24458.9
+"Belgium",2015,24225.9
+"Belgium",2016,24196.8
+"Belgium",2017,23944.9
+"Belgium",2018,24077.4
+"Belgium",2019,24139.6
+"Belgium",2020,23956.7
+"Canada",2000,15375.1
+"Canada",2001,15213.5
+"Canada",2002,14999.9
+"Canada",2003,15023.9
+"Canada",2004,15155.9
+"Canada",2005,15490.2
+"Canada",2006,15644.9
+"Canada",2007,16276.8
+"Canada",2008,17238.8
+"Canada",2009,17854.4
+"Canada",2010,17905.8
+"Canada",2011,18241.7
+"Canada",2012,18361.8
+"Canada",2013,18480.3
+"Canada",2014,18766.7
+"Canada",2015,19056.7
+"Canada",2016,19388.1
+"Canada",2017,21425.8
+"Canada",2018,21784.8
+"Canada",2019,22181.9
+"Canada",2020,21956
+"Chile",2000,4826.5
+"Chile",2001,4965.5
+"Chile",2002,5033.9
+"Chile",2003,5174.6
+"Chile",2004,5273.9
+"Chile",2005,5410
+"Chile",2006,5507.3
+"Chile",2007,5501.5
+"Chile",2008,5862.1
+"Chile",2009,6012.5
+"Chile",2010,6111.6
+"Chile",2011,6285.1
+"Chile",2012,6589
+"Chile",2013,6800.5
+"Chile",2014,6984.2
+"Chile",2015,7368.3
+"Chile",2016,7587.4
+"Chile",2017,7767.7
+"Chile",2018,8083.4
+"Chile",2019,8380.5
+"Chile",2020,8375.6
+"Colombia",2000,6078.3
+"Colombia",2001,6174.9
+"Colombia",2002,6193
+"Colombia",2003,6305.7
+"Colombia",2004,6396.5
+"Colombia",2005,6559.2
+"Colombia",2006,6606.1
+"Colombia",2007,6569.9
+"Colombia",2008,6788.5
+"Colombia",2009,6879.5
+"Colombia",2010,6918.4
+"Colombia",2011,7095.3
+"Colombia",2012,7234.8
+"Colombia",2013,7347.1
+"Colombia",2014,7319.9
+"Colombia",2015,7285
+"Colombia",2016,7472.6
+"Colombia",2017,7665
+"Colombia",2018,7848.4
+"Colombia",2019,8114.3
+"Colombia",2020,8114.7
+"Costa Rica",2000,8293.5
+"Costa Rica",2001,8189.9
+"Costa Rica",2002,8250.5
+"Costa Rica",2003,8155.9
+"Costa Rica",2004,8217
+"Costa Rica",2005,8306.1
+"Costa Rica",2006,8379.2
+"Costa Rica",2007,8548.2
+"Costa Rica",2008,8651.6
+"Costa Rica",2009,8958.7
+"Costa Rica",2010,9073.5
+"Costa Rica",2011,9227.2
+"Costa Rica",2012,9306.6
+"Costa Rica",2013,9266.9
+"Costa Rica",2014,9819.7
+"Costa Rica",2015,10096.9
+"Costa Rica",2016,9935.4
+"Costa Rica",2017,9955.7
+"Costa Rica",2018,10012.4
+"Costa Rica",2019,10191.2
+"Costa Rica",2020,11534.7
+"Czech Republic",2000,6224.5
+"Czech Republic",2001,6963.4
+"Czech Republic",2002,7565.3
+"Czech Republic",2003,7955.8
+"Czech Republic",2004,8376.1
+"Czech Republic",2005,8825.7
+"Czech Republic",2006,8843.4
+"Czech Republic",2007,8314.7
+"Czech Republic",2008,8230.8
+"Czech Republic",2009,8111.4
+"Czech Republic",2010,7958.8
+"Czech Republic",2011,7705.4
+"Czech Republic",2012,7794
+"Czech Republic",2013,8043.3
+"Czech Republic",2014,8678.8
+"Czech Republic",2015,9275.8
+"Czech Republic",2016,10059.9
+"Czech Republic",2017,10922.6
+"Czech Republic",2018,11751.8
+"Czech Republic",2019,12319.8
+"Czech Republic",2020,12351.8
+"Estonia",2000,3551.7
+"Estonia",2001,3965
+"Estonia",2002,4568.4
+"Estonia",2003,5089.9
+"Estonia",2004,5304.5
+"Estonia",2005,5664.3
+"Estonia",2006,6376.4
+"Estonia",2007,6981.6
+"Estonia",2008,6987
+"Estonia",2009,6785.4
+"Estonia",2010,6463.4
+"Estonia",2011,6486.7
+"Estonia",2012,6964.1
+"Estonia",2013,7734
+"Estonia",2014,8538.6
+"Estonia",2015,9400.4
+"Estonia",2016,9935.3
+"Estonia",2017,10218.3
+"Estonia",2018,10790.1
+"Estonia",2019,11721.4
+"Estonia",2020,11200.2
+"France",2000,19173.3
+"France",2001,19415.5
+"France",2002,19748.9
+"France",2003,20410.4
+"France",2004,21198.8
+"France",2005,21729.4
+"France",2006,21949.4
+"France",2007,21992
+"France",2008,22376.9
+"France",2009,22228.1
+"France",2010,22201.4
+"France",2011,22486.4
+"France",2012,22581.2
+"France",2013,22705.2
+"France",2014,22887.3
+"France",2015,22988.1
+"France",2016,22965
+"France",2017,22824.9
+"France",2018,22917.4
+"France",2019,23081.6
+"France",2020,22932.6
+"Germany",2000,NA
+"Germany",2001,NA
+"Germany",2002,NA
+"Germany",2003,NA
+"Germany",2004,NA
+"Germany",2005,NA
+"Germany",2006,NA
+"Germany",2007,NA
+"Germany",2008,NA
+"Germany",2009,NA
+"Germany",2010,NA
+"Germany",2011,NA
+"Germany",2012,NA
+"Germany",2013,NA
+"Germany",2014,24171.4
+"Germany",2015,24053.2
+"Germany",2016,24781.5
+"Germany",2017,24359.6
+"Germany",2018,24889.4
+"Germany",2019,24494.2
+"Germany",2020,24531
+"Greece",2000,13839.3
+"Greece",2001,14066.1
+"Greece",2002,14282.4
+"Greece",2003,14591.1
+"Greece",2004,14874.4
+"Greece",2005,15304.3
+"Greece",2006,15672.2
+"Greece",2007,15980.7
+"Greece",2008,16694.6
+"Greece",2009,16224.7
+"Greece",2010,15827.8
+"Greece",2011,13060.2
+"Greece",2012,12747.7
+"Greece",2013,12917.2
+"Greece",2014,13145.4
+"Greece",2015,13254.8
+"Greece",2016,13107.9
+"Greece",2017,13026.2
+"Greece",2018,14291.9
+"Greece",2019,14592.7
+"Greece",2020,14416.2
+"Hungary",2000,5781
+"Hungary",2001,6864.8
+"Hungary",2002,6559.1
+"Hungary",2003,6513.4
+"Hungary",2004,6764
+"Hungary",2005,7136.2
+"Hungary",2006,6927.4
+"Hungary",2007,6881.8
+"Hungary",2008,6842.9
+"Hungary",2009,6708.6
+"Hungary",2010,6850.1
+"Hungary",2011,7730.5
+"Hungary",2012,8007.3
+"Hungary",2013,8312.2
+"Hungary",2014,8604.1
+"Hungary",2015,9060
+"Hungary",2016,10180
+"Hungary",2017,10700.4
+"Hungary",2018,11180.1
+"Hungary",2019,11691.5
+"Hungary",2020,11491.5
+"Ireland",2000,15713.2
+"Ireland",2001,15773.7
+"Ireland",2002,15944.7
+"Ireland",2003,17075.7
+"Ireland",2004,17822
+"Ireland",2005,17655.6
+"Ireland",2006,18657.5
+"Ireland",2007,18288.9
+"Ireland",2008,19146.3
+"Ireland",2009,19324.5
+"Ireland",2010,18842.6
+"Ireland",2011,18528.4
+"Ireland",2012,18434.6
+"Ireland",2013,18401
+"Ireland",2014,18454.5
+"Ireland",2015,19519.6
+"Ireland",2016,19666
+"Ireland",2017,20205.1
+"Ireland",2018,20541.1
+"Ireland",2019,21241
+"Ireland",2020,20957.1
+"Israel",2000,12147.4
+"Israel",2001,11757.6
+"Israel",2002,11918
+"Israel",2003,11967.3
+"Israel",2004,11812.2
+"Israel",2005,12150
+"Israel",2006,12708.2
+"Israel",2007,12488.7
+"Israel",2008,12308.8
+"Israel",2009,11983.2
+"Israel",2010,11986.3
+"Israel",2011,12274.9
+"Israel",2012,12521.2
+"Israel",2013,12460.6
+"Israel",2014,13305.7
+"Israel",2015,13891.9
+"Israel",2016,14625.8
+"Israel",2017,15377.7
+"Israel",2018,15248.9
+"Israel",2019,15339.2
+"Israel",2020,15113.7
+"Japan",2000,12553.3
+"Japan",2001,12758.1
+"Japan",2002,12854.9
+"Japan",2003,12876.5
+"Japan",2004,12978.5
+"Japan",2005,13016.5
+"Japan",2006,13147.7
+"Japan",2007,13246.5
+"Japan",2008,13711.3
+"Japan",2009,14026.6
+"Japan",2010,14353
+"Japan",2011,14520
+"Japan",2012,14717
+"Japan",2013,14614.5
+"Japan",2014,14810.7
+"Japan",2015,15201.6
+"Japan",2016,15597.3
+"Japan",2017,15916.1
+"Japan",2018,16329.9
+"Japan",2019,16705.3
+"Japan",2020,NA
+"South Korea",2000,8257.9
+"South Korea",2001,8925
+"South Korea",2002,9400.9
+"South Korea",2003,10103.4
+"South Korea",2004,10983.5
+"South Korea",2005,11378.9
+"South Korea",2006,12457.9
+"South Korea",2007,12893.5
+"South Korea",2008,13313.1
+"South Korea",2009,13288.6
+"South Korea",2010,13427
+"South Korea",2011,12882.6
+"South Korea",2012,13494.6
+"South Korea",2013,14284.3
+"South Korea",2014,15191.4
+"South Korea",2015,16258.6
+"South Korea",2016,17112.2
+"South Korea",2017,19626.1
+"South Korea",2018,21680.3
+"South Korea",2019,22184.3
+"South Korea",2020,21971.1
+"Latvia",2000,3260.2
+"Latvia",2001,3488.9
+"Latvia",2002,3954.1
+"Latvia",2003,4255.4
+"Latvia",2004,3986.4
+"Latvia",2005,4209.6
+"Latvia",2006,5098.2
+"Latvia",2007,5890.3
+"Latvia",2008,6400.4
+"Latvia",2009,6470.6
+"Latvia",2010,6888.5
+"Latvia",2011,6736.4
+"Latvia",2012,6738.4
+"Latvia",2013,7545.7
+"Latvia",2014,8474.2
+"Latvia",2015,8697.3
+"Latvia",2016,8678.1
+"Latvia",2017,9577.2
+"Latvia",2018,9315.3
+"Latvia",2019,9294.9
+"Latvia",2020,10465.3
+"Lithuania",2000,4781.3
+"Lithuania",2001,4767.9
+"Lithuania",2002,4897.3
+"Lithuania",2003,5358.3
+"Lithuania",2004,5669.5
+"Lithuania",2005,5985.7
+"Lithuania",2006,6399.3
+"Lithuania",2007,7100.3
+"Lithuania",2008,6797.6
+"Lithuania",2009,6709.1
+"Lithuania",2010,6443
+"Lithuania",2011,6412.6
+"Lithuania",2012,7731.3
+"Lithuania",2013,7792.5
+"Lithuania",2014,8407.8
+"Lithuania",2015,9732.2
+"Lithuania",2016,9768.4
+"Lithuania",2017,10012.4
+"Lithuania",2018,13575.3
+"Lithuania",2019,14671.2
+"Lithuania",2020,14822.9
+"Luxembourg",2000,23289.2
+"Luxembourg",2001,23242.9
+"Luxembourg",2002,24112.6
+"Luxembourg",2003,24077.5
+"Luxembourg",2004,24561.6
+"Luxembourg",2005,24420
+"Luxembourg",2006,24877.7
+"Luxembourg",2007,24560.4
+"Luxembourg",2008,25583.7
+"Luxembourg",2009,25430.8
+"Luxembourg",2010,25526.8
+"Luxembourg",2011,25486.1
+"Luxembourg",2012,25392.9
+"Luxembourg",2013,26382.4
+"Luxembourg",2014,26284.1
+"Luxembourg",2015,26207.9
+"Luxembourg",2016,26775.2
+"Luxembourg",2017,26646.8
+"Luxembourg",2018,27102.6
+"Luxembourg",2019,27554.3
+"Luxembourg",2020,27799.4
+"Mexico",2000,2023.8
+"Mexico",2001,2038.2
+"Mexico",2002,2037.4
+"Mexico",2003,2028.9
+"Mexico",2004,2038.7
+"Mexico",2005,2046
+"Mexico",2006,2044.5
+"Mexico",2007,2022.8
+"Mexico",2008,2009.8
+"Mexico",2009,2023.2
+"Mexico",2010,2036.9
+"Mexico",2011,2040
+"Mexico",2012,2048.9
+"Mexico",2013,2046.6
+"Mexico",2014,2088.1
+"Mexico",2015,2158.1
+"Mexico",2016,2230.2
+"Mexico",2017,2347
+"Mexico",2018,2632.1
+"Mexico",2019,3054.4
+"Mexico",2020,3323.4
+"Netherlands",2000,25518.5
+"Netherlands",2001,25798.7
+"Netherlands",2002,26056.9
+"Netherlands",2003,25891.3
+"Netherlands",2004,25461.5
+"Netherlands",2005,25457.6
+"Netherlands",2006,25649
+"Netherlands",2007,25731.9
+"Netherlands",2008,26261.8
+"Netherlands",2009,26339.9
+"Netherlands",2010,25920.3
+"Netherlands",2011,25824.9
+"Netherlands",2012,25506.7
+"Netherlands",2013,25620.9
+"Netherlands",2014,25663.2
+"Netherlands",2015,26077.7
+"Netherlands",2016,26185.2
+"Netherlands",2017,26202.9
+"Netherlands",2018,26167.7
+"Netherlands",2019,26492.6
+"Netherlands",2020,26205.9
+"New Zealand",2000,14714.8
+"New Zealand",2001,14823.1
+"New Zealand",2002,15390.9
+"New Zealand",2003,15923.6
+"New Zealand",2004,16352.5
+"New Zealand",2005,16972.6
+"New Zealand",2006,18100.8
+"New Zealand",2007,18697.6
+"New Zealand",2008,19182.1
+"New Zealand",2009,19224
+"New Zealand",2010,18843.8
+"New Zealand",2011,19276.7
+"New Zealand",2012,19505.8
+"New Zealand",2013,19885.2
+"New Zealand",2014,20529
+"New Zealand",2015,21094.5
+"New Zealand",2016,21395.8
+"New Zealand",2017,21817.4
+"New Zealand",2018,22580.4
+"New Zealand",2019,24253.5
+"New Zealand",2020,24745.2
+"Poland",2000,7154
+"Poland",2001,7020.3
+"Poland",2002,7339.7
+"Poland",2003,7312.5
+"Poland",2004,7373.3
+"Poland",2005,7708.6
+"Poland",2006,7833.2
+"Poland",2007,9046.5
+"Poland",2008,9876.8
+"Poland",2009,9937.7
+"Poland",2010,10033
+"Poland",2011,10484.9
+"Poland",2012,11074
+"Poland",2013,11621.5
+"Poland",2014,12212.5
+"Poland",2015,12996.7
+"Poland",2016,13764.8
+"Poland",2017,14195.6
+"Poland",2018,14878.2
+"Poland",2019,16631.4
+"Poland",2020,17048.9
+"Portugal",2000,9897.4
+"Portugal",2001,9948.4
+"Portugal",2002,9876
+"Portugal",2003,9877.9
+"Portugal",2004,9911.9
+"Portugal",2005,9895.3
+"Portugal",2006,10091.6
+"Portugal",2007,10398.3
+"Portugal",2008,11076.7
+"Portugal",2009,11530.4
+"Portugal",2010,11358.1
+"Portugal",2011,11051.6
+"Portugal",2012,11021.4
+"Portugal",2013,11052.1
+"Portugal",2014,11452.1
+"Portugal",2015,11946.4
+"Portugal",2016,12385.5
+"Portugal",2017,12770.1
+"Portugal",2018,13165.9
+"Portugal",2019,13935.6
+"Portugal",2020,14411.6
+"Slovak Republic",2000,4807.8
+"Slovak Republic",2001,5230.6
+"Slovak Republic",2002,5401.4
+"Slovak Republic",2003,5452.1
+"Slovak Republic",2004,5664.4
+"Slovak Republic",2005,5811.5
+"Slovak Republic",2006,6175.2
+"Slovak Republic",2007,6190.4
+"Slovak Republic",2008,6695.3
+"Slovak Republic",2009,6905.7
+"Slovak Republic",2010,6846.1
+"Slovak Republic",2011,6820.4
+"Slovak Republic",2012,6942
+"Slovak Republic",2013,7241.5
+"Slovak Republic",2014,7843.1
+"Slovak Republic",2015,8402.7
+"Slovak Republic",2016,8908.3
+"Slovak Republic",2017,9588.8
+"Slovak Republic",2018,10118.2
+"Slovak Republic",2019,11071.3
+"Slovak Republic",2020,11529
+"Slovenia",2000,10800.9
+"Slovenia",2001,11204.8
+"Slovenia",2002,11573
+"Slovenia",2003,11952.6
+"Slovenia",2004,12243.3
+"Slovenia",2005,12348.8
+"Slovenia",2006,12211.6
+"Slovenia",2007,12488.1
+"Slovenia",2008,12846.3
+"Slovenia",2009,15147.4
+"Slovenia",2010,15599
+"Slovenia",2011,15555.8
+"Slovenia",2012,15698.7
+"Slovenia",2013,15768
+"Slovenia",2014,15892.3
+"Slovenia",2015,15901
+"Slovenia",2016,15959.1
+"Slovenia",2017,16423.6
+"Slovenia",2018,17000.7
+"Slovenia",2019,18045.1
+"Slovenia",2020,19280.5
+"Spain",2000,12548.7
+"Spain",2001,12421.2
+"Spain",2002,12300.3
+"Spain",2003,12183.5
+"Spain",2004,12846.1
+"Spain",2005,13374.1
+"Spain",2006,13725.9
+"Spain",2007,13868
+"Spain",2008,14464.3
+"Spain",2009,14420.4
+"Spain",2010,14152.5
+"Spain",2011,13814.5
+"Spain",2012,13705.5
+"Spain",2013,13726.2
+"Spain",2014,13865.8
+"Spain",2015,14032.8
+"Spain",2016,14869.1
+"Spain",2017,15206.9
+"Spain",2018,18468.7
+"Spain",2019,19557.9
+"Spain",2020,18971.1
+"Türkiye",2000,5927.3
+"Türkiye",2001,6352.1
+"Türkiye",2002,6760.5
+"Türkiye",2003,8820.6
+"Türkiye",2004,9190.3
+"Türkiye",2005,9111.4
+"Türkiye",2006,9052.3
+"Türkiye",2007,8907.7
+"Türkiye",2008,9135.9
+"Türkiye",2009,9223.1
+"Türkiye",2010,9499.9
+"Türkiye",2011,9757.6
+"Türkiye",2012,9937.5
+"Türkiye",2013,10064.4
+"Türkiye",2014,10491.9
+"Türkiye",2015,12956.4
+"Türkiye",2016,12580.9
+"Türkiye",2017,12347.9
+"Türkiye",2018,13514.8
+"Türkiye",2019,13846.2
+"Türkiye",2020,14073.4
+"United Kingdom",2000,15081.7
+"United Kingdom",2001,16133.7
+"United Kingdom",2002,16502.4
+"United Kingdom",2003,17458.3
+"United Kingdom",2004,18271.8
+"United Kingdom",2005,18641.3
+"United Kingdom",2006,19166.2
+"United Kingdom",2007,19140.7
+"United Kingdom",2008,19359.9
+"United Kingdom",2009,19166.9
+"United Kingdom",2010,18876
+"United Kingdom",2011,18837
+"United Kingdom",2012,18754.2
+"United Kingdom",2013,18899.3
+"United Kingdom",2014,19393.1
+"United Kingdom",2015,21106.6
+"United Kingdom",2016,21219.9
+"United Kingdom",2017,21640.5
+"United Kingdom",2018,22288
+"United Kingdom",2019,23360.8
+"United Kingdom",2020,23512.5
+"United States",2000,16392.9
+"United States",2001,16136.9
+"United States",2002,15778.7
+"United States",2003,15367.3
+"United States",2004,14863
+"United States",2005,14398.6
+"United States",2006,14833
+"United States",2007,16117
+"United States",2008,18013.5
+"United States",2009,18739.4
+"United States",2010,18165.9
+"United States",2011,17797.6
+"United States",2012,17540.7
+"United States",2013,17260.7
+"United States",2014,17240.2
+"United States",2015,17025.4
+"United States",2016,16670.3
+"United States",2017,16272.9
+"United States",2018,15983.2
+"United States",2019,15788.4
+"United States",2020,15080
+"Brazil",2000,2731
+"Brazil",2001,2842.5
+"Brazil",2002,2922.7
+"Brazil",2003,3020
+"Brazil",2004,3197.7
+"Brazil",2005,3613.5
+"Brazil",2006,3848.1
+"Brazil",2007,3999.8
+"Brazil",2008,4294.9
+"Brazil",2009,4525.1
+"Brazil",2010,4527.8
+"Brazil",2011,4910.1
+"Brazil",2012,5039.5
+"Brazil",2013,5061.1
+"Brazil",2014,5052.3
+"Brazil",2015,5188.7
+"Brazil",2016,5340.7
+"Brazil",2017,5245.4
+"Brazil",2018,5289.8
+"Brazil",2019,5366.6
+"Brazil",2020,5216
+"Russian Federation",2000,589.1
+"Russian Federation",2001,814
+"Russian Federation",2002,872.8
+"Russian Federation",2003,968.7
+"Russian Federation",2004,1060.2
+"Russian Federation",2005,1437.1
+"Russian Federation",2006,2756.5
+"Russian Federation",2007,2415.7
+"Russian Federation",2008,4073.3
+"Russian Federation",2009,3812.2
+"Russian Federation",2010,3648.6
+"Russian Federation",2011,3562.8
+"Russian Federation",2012,3767.3
+"Russian Federation",2013,3728.3
+"Russian Federation",2014,3465.2
+"Russian Federation",2015,3367.5
+"Russian Federation",2016,4004.8
+"Russian Federation",2017,5396.5
+"Russian Federation",2018,5494.4
+"Russian Federation",2019,5715.1
+"Russian Federation",2020,5648.9
