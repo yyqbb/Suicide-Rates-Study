@@ -1,0 +1,21 @@
+The output data for our project is all contained within our suicidedata R package, and is as follows:
+(NOTE: Countries of Interest = COI = {New Zealand, United States, North Korea, Netherlands})
+- Dataframe containing 32 OECD countries' minimum wage in USD
+  - Call to get data after importing our package is "minwagedata"
+- Minimum wage dataframe filtered to only our COI (Countries of Interest)
+  - Call to get data after importing our package is "coi_minwagedata"
+
+- Dataframe containing 39 OECD countries' union density = percentage of employees in unions
+  - Call to get data after importing our package is "uniondata"
+- Union density dataframe filtered to only our COI
+  - Call to get data after importing our package is "coi_uniondata"
+
+- Dataframe containing number of suicides per 100,000 people in all countries worldwide
+  - Call to get data after importing our package is "suicidedata"
+- Suicide dataframe filtered to only our COI
+  - Call to get data after importing our package is "coi_suicidedata"
+  
+- Dataframe containing the percentage of people experiencing depression in all countries worldwide
+  - Call to get data after importing our package is "depressiondata"
+- Depression dataframe filtered to only our COI
+  - Call to get data after importing our package is "coi_depressiondata"
